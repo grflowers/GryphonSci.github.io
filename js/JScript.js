@@ -66,7 +66,7 @@ function myFunctionIII() {
 
   var d = new Date();
   var n = month[d.getMonth()];
-  document.getElementById("currentDate2").innerHTML = n;
+  document.getElementById("currentDate3").innerHTML = n;
 }
 
 
