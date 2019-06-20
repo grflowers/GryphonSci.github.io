@@ -152,3 +152,15 @@ a.grown p{
 
 .black-background {background-color:#000;}
 .white {color:#ffffff;}
+
+#form1{
+    float: left;
+    margin-left: 200px; 
+}
+
+#form2{
+    float:right;
+    margin-right: 200px;
+    
+    
+}
